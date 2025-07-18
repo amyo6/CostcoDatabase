@@ -20,3 +20,4 @@ Database Population: We populated the database with sample data to simulate real
 Purpose of the Database
 The database was designed to support Costco’s diverse users — businesses, members, and gift card consumers — by providing reliable data on products, inventory, sales, and customer interactions. This enables more informed decision-making related to inventory management, sales trends, and customer service improvements.
 
+[Presentation of Findings](https://www.youtube.com/watch?v=syGywGfoTf0) 
