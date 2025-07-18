@@ -1,2 +1,2 @@
 # CostcoDatabase
-Info 340 Final Database Project 
+Info 330 Final Database Project 
